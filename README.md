@@ -53,10 +53,11 @@
     <img src="https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge" alt="Python badge">
     <img src="https://img.shields.io/badge/SHELL-000000?logo=powershell&logoColor=white&style=for-the-badge" alt="Shell badge">
     <img src="https://img.shields.io/badge/UBUNTU-e95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu badge">
-    <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows badge">
+    <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows badge">    
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchavonet&layout=compact)
-    
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchavonet&layout=compact&bg_color=00000000&hide_border=true&hide_title=true)
 </p>
 
 

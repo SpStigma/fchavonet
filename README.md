@@ -56,6 +56,8 @@
     <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows badge">
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## 📈 Statistics
 
 <br>

@@ -57,9 +57,7 @@
 </p>
 
 <p align="center">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchavonet&layout=compact&bg_color=00000000&hide_border=true&hide_title=true)
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchavonet&layout=compact&bg_color=00000000&hide_border=true&hide_title=true">
 </p>
 
 

@@ -18,7 +18,7 @@
     <br>
     From technical expert at Apple to logistics operations coordinator at Tesla.
     <br>
-    All my career was anout learning and facing new challenges in fast pace environments !
+    All my career was about learning and facing new challenges in fast pace environments !
 </p>
 <p>
     It's time for me to take a leap of faith and writing a new chapter.

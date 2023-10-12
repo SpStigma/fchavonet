@@ -23,7 +23,7 @@
 <p>
     It's time for me to take a leap of faith and writing a new chapter.
     <br>
-    Becoming a programmer ;)
+    Becoming a software engineer ;)
 </p>
 <p>
     Thanks to <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a> built a solid foundation starting with the C language.

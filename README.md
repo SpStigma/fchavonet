@@ -14,7 +14,7 @@
 <p>
     My career path is far from conventional...
     <br>
-    From fast food industry to assistant director for Internet provider.
+    From fast food industry to customer service manager for Internet provider.
     <br>
     From technical expert at Apple to logistics operations coordinator at Tesla.
     <br>

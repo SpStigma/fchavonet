@@ -1,8 +1,8 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/banner-darkmode.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/banner-lightmode.png">
-        <img src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/assets/banner.png" alt="GitHub profil banner">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/banner-darkmode.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/banner-lightmode.png">
+        <img src="https://raw.githubusercontent.com/fchavonet/fchavonet/main/resources/banner.png" alt="GitHub profil banner">
     </picture>
 </p>
 
@@ -26,8 +26,10 @@
     Becoming a software engineer ;)
 </p>
 <p>
-    Thanks to <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a> built a solid foundation starting with the C language.
-    <br>
+    Thanks to <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a>, I have built a strong foundation starting with the C language and progressing to Python.
+    <br><br>
+    What's more, I'm planning to specialize in AR/VR for my second-year apprenticeship :)
+    <br><br>
     And it's just the beginning !
 </p>
 <p>
@@ -43,7 +45,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge" alt="Apple badge">
     <img src="https://img.shields.io/badge/C-a8b9cc?logo=c&logoColor=black&style=for-the-badge" alt="C badge">
-    <img src="https://img.shields.io/badge/C SHARP-512bd4?logo=csharp&logoColor=black&style=for-the-badge" alt="C badge">
+    <img src="https://img.shields.io/badge/C SHARP-512bd4?logo=csharp&logoColor=white&style=for-the-badge" alt="C Sharp badge">
     <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge">
     <img src="https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
@@ -54,7 +56,7 @@
     <img src="https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge" alt="Python badge">
     <img src="https://img.shields.io/badge/SHELL-000000?logo=powershell&logoColor=white&style=for-the-badge" alt="Shell badge">
     <img src="https://img.shields.io/badge/UBUNTU-e95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu badge">
-    <img src="https://img.shields.io/badge/UNITY-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Ubuntu badge">
+    <img src="https://img.shields.io/badge/UNITY-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity badge">
     <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows badge">    
 </p>
 
@@ -70,11 +72,9 @@
 
 <br>
 <p align="center">
-    <a href="https://discord.gg/swu4BfB9" target="_blank"><img height="65em" src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="Discord logo"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/pandolowitz/" target="_blank"><img height="65em" src="https://www.svgrepo.com/show/331440/instagram.svg" alt="Instagram logo"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/" target="_blank"><img height="65em" src="https://www.svgrepo.com/show/331463/linkedin.svg" alt="LinkedIn logo"></a>
+    <a href="https://www.linkedin.com/in/fchavonet/" target="_blank"><img height="65em" src="https://www.svgrepo.com/show/331463/linkedin.svg" alt="LinkedIn logo"></a>
 </p>
 
 ##
@@ -85,7 +85,9 @@
 ##
 
 <p align="right">
-    <a href="https://shields.io/" target="_blank"><img src="https://img.shields.io/github/followers/fchavonet?label=Followers" alt="GitHub followers badge"></a>
-    <a href="https://shields.io/" target="_blank"><img src="https://img.shields.io/github/stars/fchavonet?label=Stars" alt="GitHub stars badge"></a>
+    <a href="https://shields.io/" target="_blank"><img src="https://img.shields.io/github/followers/fchavonet?style=flat&label=Followers
+" alt="GitHub followers badge"></a>
+    <a href="https://shields.io/" target="_blank"><img src="https://img.shields.io/github/stars/fchavonet?style=flat&label=Stars
+" alt="GitHub stars badge"></a>
     <a href="https://github.com/antonkomarev/github-profile-views-counter/" target=_blank"><img src="https://komarev.com/ghpvc/?username=fchavonet&label=Views" alt="GitHub views badge"></a>
 </p>

@@ -39,7 +39,7 @@
     Let's talk about how can I bring my multicultural background and passion to our exciting projects !
 </p>
 
-## 💾 Tech stack
+## 🔨 Tech stack
 
 <br>
 <p align="center">

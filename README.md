@@ -28,7 +28,7 @@
 <p>
     Thanks to <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a>, I have built a strong foundation starting with the C language and progressing to Python.
     <br><br>
-    Currently, I'm interning at Holberton School as a software engineer after completing my first year, and I'm eagerly anticipating my upcoming apprenticeship.
+    Currently, I'm interning at Holberton School as a software engineer after completing my first year.
     <br>
     For my second year, I'll be working as an employee of Holberton School while simultaneously pursuing my specialization, likely in machine learning.
     <br><br>

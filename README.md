@@ -28,9 +28,11 @@
 <p>
     Thanks to <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a>, I have built a strong foundation starting with the C language and progressing to Python.
     <br><br>
-    What's more, I'm planning to specialize in AR/VR for my second-year apprenticeship :)
+    Currently, I'm interning at Holberton School as a software engineer after completing my first year, and I'm eagerly anticipating my upcoming apprenticeship.
     <br><br>
-    And it's just the beginning !
+    For my second year, I'll be working as an employee of Holberton School while simultaneously pursuing my specialization, likely in machine learning.
+    <br><br>
+     I'm immensely grateful to Holberton and its teams for entrusting me with the opportunity to work alongside them and contribute to the development of students' technical skills.
 </p>
 <p>
     My unique path underlines my determination to push boundaries and explore new horizons.
